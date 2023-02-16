@@ -1,0 +1,5 @@
+# pytube
+Pythonライブラリのpytubeを利用したYouTubeダウンロードApp
+GUIの作成には、PySimpleGUIを使用
+画質とfps値で絞り込みをかけれる機能も実装したが、
+YouTubeの仕様上高画質高フレームレートの動画だと音声と動画ファイルが別になるため注意
